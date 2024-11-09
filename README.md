@@ -20,4 +20,4 @@ I'm a passionate developer stepping into the vibrant world of **open source**! W
 
 ## 💬 Let’s Connect!  
 - 💼 [LinkedIn](https://linkedin.com/in/giacomol) – Let’s network.  
-- 🌟 [Portfolio](https://yourportfolio.com) – Explore my projects.
+- 🌟 [Portfolio](https://giacomolorenzi.info/) – Explore my projects.
