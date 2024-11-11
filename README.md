@@ -8,7 +8,6 @@ I'm a passionate developer stepping into the vibrant world of **open source**! W
 ## 🔭 What I’m Up To  
 - 🌐 **Contributing to open source**: Starting with beginner-friendly projects to build skills and give back.  
 - 📖 **Learning & Growing**: Diving deeper into tools like Python/JavaScript/Linux.
-- 
 ---
 
 ## 📌 Open Source Goals  
