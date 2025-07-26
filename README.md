@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?lines=Ciao!%F0%9F%91%8B;I'm+Giacomo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=Ciao!%F0%9F%91%8B;I'm+Giacomo)](https://git.io/typing-svg)
 
 ## 🌱 About Me
-I'm a passionate developer stepping into the vibrant world of **open source**! While I've been crafting personal projects on GitHub for a while, I’m now eager to **collaborate, contribute, and grow** with the global developer community.
+I'm a passionate developer stepping into the world of **open source**! While I've been crafting personal projects on GitHub for a while, I’m now eager to **collaborate, contribute, and grow** with the global developer community.
 
 ---
 
